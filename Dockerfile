@@ -30,4 +30,5 @@ COPY vimrc /root/.vimrc
 RUN mkdir /app
 WORKDIR /app
 
+
 CMD /bin/bash
